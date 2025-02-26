@@ -6,17 +6,9 @@ A replica of YouTube's Subscribe button.
 This project was inspired by [Yash Raj's YouTube video](https://www.youtube.com/watch?v=xXI1JuOK430).
 
 ## Demo
-<div style="display: flex; justify-content: space-between;">
-    <div style="flex: 1; text-align: center;">
-        <h3>Youtube</h3>
-        <img src="assets/original.gif" alt="Original Version" style="max-width: 100%;">
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <h3>My Version</h3>
-        <img src="assets/replication.gif" alt="My Version" style="max-width: 100%;">
-    </div>
-</div>
-
+| Youtube | My Version |
+|---------|------------|
+| ![Original Version](assets/original.gif) | ![My Version](assets/replication.gif) |
 
 ## TODO
 - [ ] Add an initial delay parameter to `HoverEffectWidget` to improve the animation timing.
